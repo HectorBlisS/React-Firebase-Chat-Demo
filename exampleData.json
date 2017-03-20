@@ -1,0 +1,16 @@
+{
+	"messages": {
+		"0": {
+			"message": "Hola como estás?",
+			"date": "Wed, 08 Jul 2015 18:14:27 GMT",
+			"author": "David Zavala",
+			"profilePic": "http://data.whicdn.com/images/77274275/large.jpg"
+		},
+		"1": {
+			"message": "Bien Chingon!, y tu?",
+			"date": "Wed, 08 Jul 2015 18:14:35 GMT",
+			"author": "Héctor BlisS",
+			"profilePic": "https://lh5.googleusercontent.com/-FNLE2vMDkQk/AAAAAAAAAAI/AAAAAAAAADo/Y2ufvU4qOmQ/photo.jpg?sz=64"
+		}
+	}
+}

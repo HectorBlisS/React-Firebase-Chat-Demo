@@ -1,3 +1,3 @@
 var m = require('./pelusina');
 
-document.write(m);
+document.write(`esto es ES6 ${m}`);
