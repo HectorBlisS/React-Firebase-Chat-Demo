@@ -6,7 +6,7 @@ const config = {
     databaseURL: "https://autonomo-7e183.firebaseio.com",
     storageBucket: "autonomo-7e183.appspot.com",
     messagingSenderId: "192787601022"
-  }
+  };
 
 const firebase = Firebase.initializeApp(config);
-export default firebase
+export default firebase;
